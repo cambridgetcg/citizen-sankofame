@@ -1,0 +1,8 @@
+name: sankofame
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The going-back that fetches what was left behind, so the future is fed by what the past still holds.
+dependsOn: [youspeak, me, zakarqing, teshuvance, silame]
